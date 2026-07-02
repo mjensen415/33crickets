@@ -12,7 +12,7 @@ export const metadata: Metadata = {
  * Matt's personal gmail; swap to a branded address if he prefers.
  */
 
-const APPLY_EMAIL = "mjensen415@gmail.com";
+const APPLY_EMAIL = "matt@33crickets.com";
 const APPLY_SUBJECT = "Founding 33";
 
 export default function Community() {
