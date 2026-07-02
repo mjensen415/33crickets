@@ -14,6 +14,9 @@ export default function Footer() {
           <Link href="/services" className="opacity-70 transition-opacity hover:opacity-100">
             Services
           </Link>
+          <Link href="/community" className="opacity-70 transition-opacity hover:opacity-100">
+            Community
+          </Link>
           <Link href="/about" className="opacity-70 transition-opacity hover:opacity-100">
             About
           </Link>

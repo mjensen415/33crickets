@@ -16,6 +16,12 @@ export default function NavBar() {
             Services
           </Link>
           <Link
+            href="/community"
+            className="hidden text-sm text-ink-muted transition-colors hover:text-ink sm:block"
+          >
+            Community
+          </Link>
+          <Link
             href="/about"
             className="hidden text-sm text-ink-muted transition-colors hover:text-ink sm:block"
           >
